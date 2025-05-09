@@ -1,7 +1,7 @@
 package com.example.introkotil._temaskotil
 
 fun main(){
-   /* print("ingresa el sueldo del empleado:")
+    print("ingresa el sueldo del empleado:")
 
     val sueldo = readln().toDouble()
 
@@ -14,10 +14,10 @@ fun main(){
 
     }
 
-*/
+
+
 
     //when
-
     val mes = "1"
     when(mes){
         "1" ->println("enero")
@@ -30,5 +30,6 @@ fun main(){
 
     }
     println(1..4)
+
 
 }
