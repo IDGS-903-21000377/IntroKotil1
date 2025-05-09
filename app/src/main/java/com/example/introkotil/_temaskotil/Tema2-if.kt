@@ -17,19 +17,4 @@ fun main(){
 
 
 
-    //when
-    val mes = "1"
-    when(mes){
-        "1" ->println("enero")
-        "2" ->println("febrero")
-        "3" ->println("marzo")
-        "4" ->println("abril")
-        else-> println("mes no valido ")
-
-
-
-    }
-    println(1..4)
-
-
 }
