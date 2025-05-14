@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">IntroKotil</string>
+    <string name="app_name">Intro Kotlin903</string>
+    <string name="hola_mundo">Hola mundo</string>
+    <string name="nombre">Escribe tu nombre</string>
+    <string name="pulsame">pulsame</string>
+    <string name="escriba_su_nombre">Escriba su nombre</string>
 </resources>
